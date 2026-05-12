@@ -1,4 +1,4 @@
-# 
+# custom liquidity sniper bot | bundle-transactions + slippage-control is the best liquidity sniper bot, featuring bundle-transactions and slippage-control. Fast, smart, and
 
 
 
